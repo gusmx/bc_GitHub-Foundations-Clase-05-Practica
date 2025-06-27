@@ -48,4 +48,4 @@ Creado por _@gusmx_ como parte del bootcamp **GitHub Foundations: Clase 05 - Car
 - `PR's`
 - `Issues`
 - `Revisión de Código`
-- `Discusiones`.
+- `Discusiones`
